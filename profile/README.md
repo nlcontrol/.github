@@ -12,3 +12,12 @@ Although the group is developing predominantly application-independent general m
 
 - [LinkedIn – Nonlinear Control Systems Group](https://www.linkedin.com/company/nonlinear-control-systems-group)
 - [TalTech – Department of Software Science, Research Groups](https://taltech.ee/en/department-of-software-science/research-groups#p40025)
+
+---
+
+## Projects
+
+### [Detecting Battery Degradation Factors using Explainable AI](https://github.com/nlcontrol/XAI_battery_SoH-Public)
+Accurate prediction of battery State-of-Health (SoH) is essential for ensuring safe, reliable, and efficient battery operation. While deep learning models such as Convolutional Neural Networks (CNNs) provide strong predictive performance, their lack of transparency limits trust and real-world adoption.
+
+This project combines CNN-based SoH prediction with explainable artificial intelligence (XAI) techniques. A CNN is used to model temporal dependencies in battery time-series data (current, voltage, temperature), and SHAP is applied post hoc to explain model predictions. In addition to local explanations, a temporally-aware Global SHAP aggregation highlights consistent degradation patterns across the battery lifecycle, enabling transparent identification of key degradation factors.

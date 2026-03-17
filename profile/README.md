@@ -10,7 +10,7 @@ Through interdisciplinary collaboration, the group contributes to the emerging f
 
 ## Links
 - <a href="https://www.linkedin.com/company/nonlinear-control-systems-group" target="_blank"> LinkedIn – Nonlinear Control Systems Group </a>
-- <a href="[https://www.linkedin.com/company/nonlinear-control-systems-group](https://taltech.ee/en/department-of-software-science/research-groups#p40025)" target="_blank"> TalTech – Department of Software Science, Research Groups </a>
+- <a href="https://taltech.ee/en/department-of-software-science/research-groups#p40025" target="_blank"> TalTech – Department of Software Science, Research Groups </a>
 
 ---
 
